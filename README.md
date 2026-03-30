@@ -22,8 +22,8 @@ Limpeza do display (botão "C")
 
 # Tecnologias utilizadas
 
-HTML5
-CSS3
+HTML5 <br>
+CSS3 <br>
 jQuery
 
 # Como usar
