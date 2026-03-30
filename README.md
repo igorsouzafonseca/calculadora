@@ -6,9 +6,9 @@ Este é um projeto simples de calculadora desenvolvido utilizando apenas HTML, C
 
 O objetivo deste projeto é criar uma calculadora funcional que permita realizar operações matemáticas básicas, como:
 
-Adição
-Subtração
-Multiplicação
+Adição <br>
+Subtração <br>
+Multiplicação <br>
 Divisão
 
 A interface é interativa e responsiva, e toda a lógica da calculadora é implementada no jQuery, demonstrando manipulação de eventos, atualização de elementos DOM e controle de entradas do usuário.
